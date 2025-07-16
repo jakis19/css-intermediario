@@ -1,0 +1,10 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: goldenrod;
+}
+ul li {
+    display: inline-block;
+    margin-right: 20px;
+}

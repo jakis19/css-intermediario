@@ -1,0 +1,14 @@
+body {
+    background: url('https://unblast.com/wp-content/uploads/2021/01/Space-Background-Images-1024x682.jpg');
+}
+
+ul {
+    background: grey;
+    list-style-type: none;
+    padding: 0;
+    opacity: 0.5;
+}
+ul li {
+    display: inline-block;
+    margin-right: 20px;
+}

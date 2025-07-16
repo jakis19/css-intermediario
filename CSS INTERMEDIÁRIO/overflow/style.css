@@ -1,0 +1,11 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+    overflow: auto; /*ja define automatico se o texto precisa de barra de rolagem ou não*/
+   
+    /* 
+    overflow: scroll;  barra de rolagem 
+    overflow-x: hidden; /* faz sumir a parte debaixo da rolagem 
+    */
+}
